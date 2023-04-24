@@ -1,4 +1,3 @@
-# skillbox
 
 ## Project setup
 ```
